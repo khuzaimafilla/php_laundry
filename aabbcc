@@ -1,0 +1,4 @@
+Method GET : Mengambil data yg sudah ada di datbes
+Method POST : Memasukkan data ke databaes
+mysqli_fetch_array : mengkonversi hasil query menjadi array untuk mempermudah dalam tampilan tabel
+mysqli_num_rows : mengetahui banyak jumlah baris hasil pemanggilan fungsi query
